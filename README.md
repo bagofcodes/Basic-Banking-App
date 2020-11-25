@@ -1,6 +1,11 @@
-# bankingsystem
+# Banking System
 
-A new Flutter project.
+An App developed using Flutter and Sqflite database.
+
+
+## First Look
+
+[](https://github.com/bagofcodes/Basic-Banking-App/blob/master/BAnking%20App.png)
 
 ## Getting Started
 
